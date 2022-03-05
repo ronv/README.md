@@ -24,6 +24,11 @@ Read [my blog](https://ronaldsvilcins.com/) or [follow @ronaldsvilcins on Twitte
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/listed?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ronv/listed?style=flat-square&labelColor=343b41"/></td>
     </tr>
+<tr>
+      <td><a href="https://github.com/ronv/minimalist"><b>Minimalist Hugo theme</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/minimalist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ronv/minimalist?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
        <td><a href="https://github.com/ronv/jam"><b>Jam Hugo theme</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/jam?style=flat-square&labelColor=343b41"/></td>

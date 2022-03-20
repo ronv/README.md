@@ -2,9 +2,9 @@
 
 I’m a design-minded developer and digital advertiser. 
 I help companies deliver reliable, personalised and profitable digital experiences to their customers for over 15 years.
-Read [my blog](https://ronaldsvilcins.com/) or [follow @ronaldsvilcins on Twitter](https://twitter.com/ronaldsvilcins).
+[Follow me (@ronaldsvilcins) on Twitter](https://twitter.com/ronaldsvilcins).
 
-<h3>Latest Open source projects</h3>
+<h3>Latest projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -63,11 +63,9 @@ Read [my blog](https://ronaldsvilcins.com/) or [follow @ronaldsvilcins on Twitte
   </tbody>
 </table>
 
-<a href="https://ronaldsvilcins.com/projects">Check other projects on my site.</a>
-
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronv&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronv&layout=compact)
 
 ### Github stats
 

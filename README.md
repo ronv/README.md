@@ -1,8 +1,9 @@
-### Hello! 👋 
+### Hello! 👋
 
 I’m a design-minded developer and digital advertiser. 
 I help companies deliver reliable, personalised and profitable digital experiences to their customers for over 15 years.
-[Follow me (@ronaldsvilcins) on Twitter](https://twitter.com/ronaldsvilcins).
+
+🔥 If you like my stuff, please consider [**sponsoring me**](https://github.com/sponsors/ronv) 🔥🔥 
 
 <h3>Latest projects</h3>
 <table>
@@ -62,11 +63,3 @@ I help companies deliver reliable, personalised and profitable digital experienc
     
   </tbody>
 </table>
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronv&layout=compact)
-
-### Github stats
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=ronv&count_private=true&show_icons=true)

@@ -1,9 +1,6 @@
 ### Hello! 👋
 
-I’m a design-minded developer and digital advertiser. 
-I help companies deliver reliable, personalised and profitable digital experiences to their customers for over 15 years.
-
-🔥 If you like my stuff, please consider [**sponsoring me**](https://github.com/sponsors/ronv) 🔥🔥 
+🔥 If you like my stuff, please consider [**sponsoring me**](https://www.buymeacoffee.com/ronaldsvilcins) 🔥🔥 
 
 <h3>Latest projects</h3>
 <table>

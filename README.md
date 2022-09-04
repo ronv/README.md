@@ -1,14 +1,12 @@
-### Hello! 👋
+If you like my stuff, please consider [**sponsoring me**](https://www.buymeacoffee.com/ronaldsvilcins).
 
-🔥 If you like my stuff, please consider [**sponsoring me**](https://www.buymeacoffee.com/ronaldsvilcins) 🔥🔥 
-
-<h3>Latest projects</h3>
+<h4>Latest projects</h4>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
+      <td><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
     </tr>
   </thead>
   <tbody>

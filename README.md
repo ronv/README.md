@@ -37,8 +37,8 @@ If you like my stuff, please consider [**sponsoring me**](https://www.buymeacoff
     </tr>
 	  <tr>
       <td><a href="https://github.com/ronv/simplist"><b>Simplist Hugo theme</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/simplist/lines?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/simplist/lines?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/simplist?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ronv/simplist?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ronv/colorie"><b>Colorie Jekyll theme</b></a></td>

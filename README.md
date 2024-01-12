@@ -60,6 +60,11 @@ If you like my stuff, please consider [**sponsoring me**](https://www.buymeacoff
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/writer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ronv/writer?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  <tr>
+      <td><a href="https://github.com/ronv/simplica"><b>Simplica</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/simplica?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ronv/simplica?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ronv/the-black"><b>The Black theme</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ronv/the-black?style=flat-square&labelColor=343b41"/></td>
